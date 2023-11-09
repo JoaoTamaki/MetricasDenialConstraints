@@ -1,8 +1,8 @@
 # Metricas para avaliar Denial Constraints
 
-Denial constraint (DC) é o formalismo usado para representar restrições que não podem
-ocorrer em um dataset e servem para selecionar os dados que respeitam ou não a restrição. Este
-trabalho de conclusão de curso descreve o processo de como extrair e medir a qualidade de DCs
+Denial constraint (DC) é o formalismo usado para representar restrições que não podem ocorrer em
+um dataset e servem para selecionar os dados que respeitam ou não a restrição. Neste repositório
+está os códigos do meu TCC que descreve o processo de como extrair e medir a qualidade de DCs
 em datasets. Depois de encontradas e avaliadas as DCs, os resultados sugerem as melhores DCs
 que podem ser usadas pelos sistemas para que possam melhorar a qualidade dos dados de entrada,
 limpeza de dados dentro do dataset, entre outras atividades. Foram desenvolvidas funções para
