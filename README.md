@@ -1,4 +1,4 @@
-# MetricasDenialConstraints
+# Metricas para avaliar Denial Constraints
 
 Denial constraint (DC) é o formalismo usado para representar restrições que não podem
 ocorrer em um dataset e servem para selecionar os dados que respeitam ou não a restrição. Este
